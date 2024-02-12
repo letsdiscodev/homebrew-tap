@@ -1,11 +1,11 @@
 class DiscoCli < Formula
   include Language::Python::Virtualenv
 
-  desc "disco CLI utility"
+  desc "CLI for Disco"
   homepage "https://letsdisco.dev/"
+  url "https://github.com/letsdiscodev/disco-cli/archive/refs/tags/v0.0.1-alpha.tar.gz"
   version "0.0.1-alpha"
-  url "https://github.com/letsdiscodev/disco-cli/archive/refs/tags/v0.0.1-alpha.zip"
-  sha256 "e2d3f393c745a89d8fe4581ac7265a325a94ee33c2ca266201dfc47e18cdaa67"
+  sha256 "f9ba59da9d6afb9a880fd07af45a1d7df62b3efd7b04a07292bd4b9df617b721"
 
   depends_on "python@3.12"
 
