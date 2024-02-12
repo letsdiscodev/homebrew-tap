@@ -1,11 +1,5 @@
-# Letsdiscodev Tap
+# Disco Homebrew Tap
 
-## How do I install these formulae?
+## install the disco-cli:
 
-`brew install letsdiscodev/tap/<formula>`
-
-Or `brew tap letsdiscodev/tap` and then `brew install <formula>`.
-
-## Documentation
-
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+`brew install letsdiscodev/tap/disco-cli`
