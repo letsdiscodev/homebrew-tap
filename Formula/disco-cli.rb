@@ -45,7 +45,6 @@ class DiscoCli < Formula
   end
 
   def install
-    # ENV.deparallelize  # if your formula fails when building in parallel
     virtualenv_install_with_resources
   end
 
