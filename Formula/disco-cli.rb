@@ -7,7 +7,7 @@ class DiscoCli < Formula
   url "https://github.com/letsdiscodev/disco-cli/archive/refs/tags/v0.0.1-alpha.zip"
   sha256 "e2d3f393c745a89d8fe4581ac7265a325a94ee33c2ca266201dfc47e18cdaa67"
 
-  depends_on "python@3.11"
+  depends_on "python@3.12"
 
   resource "certifi" do
     url "https://files.pythonhosted.org/packages/71/da/e94e26401b62acd6d91df2b52954aceb7f561743aa5ccc32152886c76c96/certifi-2024.2.2.tar.gz"
