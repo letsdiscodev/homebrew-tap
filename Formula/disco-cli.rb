@@ -3,8 +3,8 @@ class DiscoCli < Formula
 
   desc "CLI for Disco"
   homepage "https://letsdisco.dev/"
-  url "https://github.com/letsdiscodev/disco-cli/archive/refs/tags/v0.0.2-alpha.tar.gz"
-  sha256 "2161423e53b0fd2cb4681502b76cab7e8258c5dfa11fb80716b9cfbb442b75b7"
+  url "https://github.com/letsdiscodev/disco-cli/archive/refs/tags/v0.0.3-alpha.tar.gz"
+  sha256 "7e4165c7c122ada8f53c6d2831095cc4c2c678150be7d64a5d21a4901c02dbe8"
 
   depends_on "python@3.12"
 
